@@ -1,0 +1,4 @@
+com\waleapp\smart_writer\SmartEmailSbApplication.class
+com\waleapp\smart_writer\service\SmartEmailGeneratorService.class
+com\waleapp\smart_writer\controller\SmartEmailGeneratorController.class
+com\waleapp\smart_writer\dto\EmailRequest.class
