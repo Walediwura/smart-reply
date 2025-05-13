@@ -7,7 +7,7 @@ A production-ready, **tone-aware email response generator** built with **Spring 
 
 ## 🚀 Overview
 
-This service wraps LLM capabilities into a robust Spring Boot application, enabling smart, **context-aware email responses** with adaptive tone control — from **professional** to **friendly**, **empathetic**, and more. Ideal for CRMs, customer support platforms, HR systems, and personal productivity tools.
+This service wraps LLM capabilities into a robust Spring Boot application, enabling smart, **context-aware email responses** with adaptive tone control - from **professional** to **friendly**, **empathetic**, and more. Ideal for CRMs, customer support platforms, HR systems, and personal productivity tools.
 
 ---
 
