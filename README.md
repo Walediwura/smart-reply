@@ -44,8 +44,7 @@ POST /api/v1/generate
 * Java 17
 * Spring Boot 3.x
 * RESTful API design
-* LLM integration (OpenAI/HuggingFace)
-* JSON serialization (Jackson)
+* LLM integration (Gemini)
 * Maven build system
 
 ---
